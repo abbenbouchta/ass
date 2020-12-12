@@ -1,0 +1,4 @@
+[submodule "technique-VPSI/ctr"]
+	path = technique-VPSI/ctr
+	url = git@github.com:technique-VPSI/ctr.git
+	branch = master
